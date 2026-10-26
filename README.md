@@ -72,3 +72,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 ## Subheader
 
 Watch youtube Tutorial
+
+## Local Development
+
+1. Open index.html in browser
